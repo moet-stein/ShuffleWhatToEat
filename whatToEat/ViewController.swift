@@ -23,7 +23,7 @@ class ViewController: UIViewController {
         if wordIn.text == "" {
             wordIn.text = "IN"
         }
-        let places = ["Kreuzberg", "Friedrichshain", "Neuköln", "Mitte", "Treptow", "Prenzlauer Berg", "Near Home"]
+        let places = ["Kreuzberg", "Friedrichshain", "Neuköln", "Mitte", "Treptow", "Prenzlauer Berg", "Near Home", "Shöneberg"]
         
         let foodNameImage = [
             "Spanish" : #imageLiteral(resourceName: "spanish"),
